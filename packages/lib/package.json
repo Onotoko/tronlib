@@ -26,8 +26,5 @@
     "pbkdf2": "^3.0.17",
     "tronweb": "^2.7.4",
     "uuid": "^3.3.2"
-  },
-  "scripts": {
-    "lint": "npx eslint . --fix"
   }
 }
