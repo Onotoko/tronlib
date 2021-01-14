@@ -14,5 +14,6 @@
   "dependencies": {
     "extensionizer": "^1.0.1",
     "tronweb": "^2.7.4"
-  }
+  },
+  "gitHead": "6f7c30062632688f4a312470911926bc72bec662"
 }
