@@ -1,0 +1,19 @@
+{
+  "name": "@tronlib/contentScript",
+  "main": "index.js",
+  "author": "Kondax <kondaxsolutions@gmail.com>",
+  "private": true,
+  "version": "3.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Onotoko/tronlib.git",
+    "directory": "packages/contenScript"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "extensionizer": "^1.0.1",
+    "tronweb": "^2.7.4"
+  }
+}
