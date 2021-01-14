@@ -6,7 +6,7 @@
   "version": "3.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Onotoko/tronlib.git",
+    "url": "git@github.com:Onotoko/tronlib.git",
     "directory": "packages/contenScript"
   },
   "publishConfig": {
