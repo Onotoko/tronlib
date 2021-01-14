@@ -1,5 +1,5 @@
 {
-  "name": "@tronlib/pageHook",
+  "name": "@tronlib/pagehook",
   "main": "index.js",
   "author": "Kondax <kondaxsolutions@gmail.com>",
   "version": "3.1.9",
@@ -15,6 +15,5 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  },
-  "gitHead": "23c0f57977d067bfed3143f816d51ee11979d04d"
+  }
 }

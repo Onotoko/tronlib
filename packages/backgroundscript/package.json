@@ -29,6 +29,5 @@
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-es2015": "^6.24.1",
     "webpack-cli": "^3.1.2"
-  },
-  "gitHead": "23c0f57977d067bfed3143f816d51ee11979d04d"
+  }
 }
