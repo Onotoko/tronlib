@@ -213,4 +213,4 @@ const pageHook = {
     }
 };
 
-export default pageHook
+module.exports = pageHook

@@ -51,4 +51,4 @@ const contentScript = {
     }
 };
 
-export default contentScript
+module.exports=  contentScript

@@ -469,4 +469,4 @@ const backgroundScript = {
     }
 };
 
-export default backgroundScript
+module.exports = backgroundScript
