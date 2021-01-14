@@ -6,7 +6,7 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:Onotoko/tronlib.git",
-    "directory": "packages/contenScript"
+    "directory": "packages/contenscript"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -15,5 +15,5 @@
     "extensionizer": "^1.0.1",
     "tronweb": "^2.7.4"
   },
-  "gitHead": "6f7c30062632688f4a312470911926bc72bec662"
+  "gitHead": "a5d30e7dc00f1b158eaa41195a42c3f268b9f6f0"
 }
