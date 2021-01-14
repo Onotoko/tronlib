@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.5](https://github.com/Onotoko/tronlib/compare/@tronlib/contentscript@3.0.4...@tronlib/contentscript@3.0.5) (2021-01-14)
+
+**Note:** Version bump only for package @tronlib/contentscript
+
+
+
+
+
 ## 3.0.4 (2021-01-14)
 
 **Note:** Version bump only for package @tronlib/contentscript
