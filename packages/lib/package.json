@@ -2,7 +2,7 @@
   "name": "@tronlib/lib",
   "main": "index.js",
   "author": "Kondax <kondaxsolutions@gmail.com>",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "repository": {
     "type": "git",
     "url": "git@github.com:Onotoko/tronlib.git",

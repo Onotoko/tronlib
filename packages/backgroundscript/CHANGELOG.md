@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.10](https://github.com/Onotoko/tronlib/compare/@tronlib/backgroundscript@3.1.9...@tronlib/backgroundscript@3.1.10) (2021-01-14)
+
+**Note:** Version bump only for package @tronlib/backgroundscript
+
+
+
+
+
 ## [3.1.9](https://github.com/Onotoko/tronlib/compare/@tronlib/backgroundscript@3.1.8...@tronlib/backgroundscript@3.1.9) (2021-01-14)
 
 **Note:** Version bump only for package @tronlib/backgroundscript
