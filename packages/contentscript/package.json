@@ -2,7 +2,7 @@
   "name": "@tronlib/contentscript",
   "main": "index.js",
   "author": "Kondax <kondaxsolutions@gmail.com>",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "repository": {
     "type": "git",
     "url": "git@github.com:Onotoko/tronlib.git",
