@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.8](https://github.com/Onotoko/tronlib/compare/@tronlib/pageHook@3.1.7...@tronlib/pageHook@3.1.8) (2021-01-14)
+
+**Note:** Version bump only for package @tronlib/pageHook
+
+
+
+
+
 ## [3.1.7](https://github.com/Onotoko/tronlib/compare/@tronlib/pageHook@3.1.6...@tronlib/pageHook@3.1.7) (2021-01-14)
 
 **Note:** Version bump only for package @tronlib/pageHook
