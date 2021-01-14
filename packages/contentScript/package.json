@@ -1,5 +1,5 @@
 {
-  "name": "@tronlib/contentScript",
+  "name": "@tronlib/contentscript",
   "main": "index.js",
   "author": "Kondax <kondaxsolutions@gmail.com>",
   "version": "3.0.3",
@@ -14,5 +14,6 @@
   "dependencies": {
     "extensionizer": "^1.0.1",
     "tronweb": "^2.7.4"
-  }
+  },
+  "gitHead": "08bf5e9bcb42156e2d7b9a9200fd153a8b64695b"
 }
