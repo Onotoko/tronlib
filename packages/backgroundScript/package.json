@@ -2,7 +2,6 @@
   "name": "@tronlib/backgroundScript",
   "main": "index.js",
   "author": "Kondax <kondaxsolutions@gmail.com>",
-  "private": true,
   "version": "3.1.2",
   "repository": {
     "type": "git",
